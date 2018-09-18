@@ -1,0 +1,8 @@
+C:\IoT Projects\CopyClipboard\CopyClipboard\obj\x86\Debug\CopyClipboard.vbprojResolveAssemblyReference.cache
+C:\IoT Projects\CopyClipboard\CopyClipboard\obj\x86\Debug\CopyClipboard.Form1.resources
+C:\IoT Projects\CopyClipboard\CopyClipboard\obj\x86\Debug\CopyClipboard.Form2.resources
+C:\IoT Projects\CopyClipboard\CopyClipboard\obj\x86\Debug\CopyClipboard.vbproj.GenerateResource.Cache
+C:\IoT Projects\CopyClipboard\CopyClipboard\obj\x86\Debug\CopyClipboard.Resource1.resources
+C:\IoT Projects\CopyClipboard\CopyClipboard\obj\x86\Debug\CopyClipboard.Resource.resources
+C:\IoT Projects\CopyClipboard\CopyClipboard\obj\x86\Debug\CopyClipboard.Resources.resources
+C:\IoT Projects\CopyClipboard\CopyClipboard\obj\x86\Debug\CopyClipboard.vbproj.CoreCompileInputs.cache
